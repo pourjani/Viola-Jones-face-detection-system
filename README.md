@@ -15,21 +15,6 @@ It's a lightweight and efficient solution for real-time face detection with mini
 
 ---
 
-## 🎥 Demo
-
-Live webcam detection and static image example:
-
-![Demo](docs/demo.gif)
-
----
-
-## 🖼️ Output on Static Image
-
-Here’s an example output after running the detector on a single image:
-
-![Output Static Image](output_static_image.jpg)
-
----
 
 ## 🛠 Requirements
 
